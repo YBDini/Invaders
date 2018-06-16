@@ -1,0 +1,70 @@
+CHECKLIST:
+
+!!Things, such as the boss and the blocks only show up when you manually set the values to that stage in main and in 
+!! startup find a way to solve this and then carry on because that will make the transitions between stages and levels
+!! seamless
+- Create FIRE coming out of the engine for the players and the enemies
+
+- Enemies can't shoot in the LANE if a CIVILIAN is in that lane... ORRRRRRRRR Enemies can shoot in that lane
+but the civilian doesn't take any damage
+
+- Create the code for a town in which the player gets out of their spaceCraft
+and travels around the really small town TOWN 1
+
+- Create TOWN 2
+
+- Create TOWN 3
+
+- Create TOWN 4
+
+- Maybe in each town you could create a HANGOUT spot in which npc's could relay riddles to you and you 
+answer in a way that you would solve that riddle, maybe like a interactive puzzles that pop up on the screen
+or just text puzzles that you just think through.
+
+- Design a way for the spawner to only SPAWN things that objects aren't in a specific LANE
+except for the player, this will make sure that a civilian and an enemy wont
+spawn on top of each other. Maybe if the entity is above a certain y point
+then nothing will spawn in that lane
+
+- Find a appropriate SPAWNING rate that is neither too easy nor too hard.
+Take into consideration the size of the screen, things can't move too fast 
+or things may overwhelm the player, nor too slow to bore them.
+
+
+- Create a MECH shop - Will include updates for the player's space craft
+
+- Create a HOTEL - Will fully restore the player's health and fill up their
+ship's "juice"
+
+- Create a "JUICE" meter. This will represent how much light energy you can use to shoot enemies
+and shoot beams etc. Your ammo.
+
+- Create a restaraunt - You can buy snacks and foods here. Each city will have a certain type of style for
+food, like some is just goop and others are extremely spicy food, etc.
+
+- GLOSSARY for all of the Objects in the game - gives lore to the game, something you can really put some
+attention into once you are finished the game and really just debugging
+(find out how to fix the bug in the glossary where it just wont show... it just
+shows a black screen...)
+
+- MUSIC PLAYER for your space craft. Think of the space craft as a super advanced car. You can switch what 
+type of music you are listening to whether you are in game or in the startup menu
+
+- Create Boss1
+
+- Create Boss2
+
+- Create Boss3
+
+- Create Boss4
+
+- Create FinalBoss
+
+-find out how to successful CONNECT the game's stages and levels so that it's seamless
+and doesn't break
+
+-find out how to make it when you press the space bar when the text is not done going
+then pressing the spacebar will just make the text show fully and pressing it 
+again will make the process continue.
+
+-
